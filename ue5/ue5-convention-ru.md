@@ -246,6 +246,9 @@
         └── Content/
             ├── Environment
             └── Vegetation
+                └── Trees
+                    └── Tree_Birch_01
+                └── Bushes
 </pre>
 
 Правила формирования именно такой структуры проекта описаны ниже.
